@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/60308252?v=4">
+<img src="https://avatars.githubusercontent.com/u/60308252?s=64&v=4">
 
 <h2> Hey there! I'm Chris.</h2>
 

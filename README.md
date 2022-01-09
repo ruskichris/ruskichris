@@ -36,6 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
+<a href="zev#1028"><img alt="Discord" src="https://img.shields.io/badge/discord">
 <a href="mailto:angelpissytev@gmail.com"><img alt="Email (i rarely check it)" src="https://img.shields.io/badge/Email-angelpissytev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 

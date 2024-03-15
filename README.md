@@ -4,8 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick fix's.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🤔 &nbsp; I am an eager rookie developer, with the yearning desire to learn more about reverse engineering and the use of C++ in controlled enviornments.
+- 🌱 &nbsp; If life gives you lemons, you sell those lemons and make profit!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

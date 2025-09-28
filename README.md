@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am an eager rookie developer, with the yearning desire to learn more about reverse engineering and the use of C++ in controlled enviornments.
+- 🤔 &nbsp; I am a junior developer that primarily focuses on JS/TS(X). I love writing backends for complex projects that involve conprehensive data structuring and formatting. Currently working on Resolute, the new era of website bulding.
 - 🌱 &nbsp; If life gives you lemons, you sell those lemons and make profit!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:angelpissytev@gmail.com"><img alt="Email (i rarely check it)" src="https://img.shields.io/badge/Email-angelpissytev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:christianmarcos23@icloud.com"><img alt="Email (i rarely check it)" src="https://img.shields.io/badge/Email-angelpissytev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Chris](https://github.com/ruskichris)

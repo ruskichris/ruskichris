@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I am a junior developer that primarily focuses on JS/TS(X). I love writing backends for complex projects that involve conprehensive data structuring and formatting. Currently working on Resolute, the new era of website bulding.
-- 🌱 &nbsp; If life gives you lemons, you sell those lemons and make profit!
+- 🌱 &nbsp; If life gives you lemons, make some lemonade 😉!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

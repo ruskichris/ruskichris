@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:christianmarcos23@icloud.com"><img alt="Email (i rarely check it)" src="https://img.shields.io/badge/Email-angelpissytev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:christianmarcos23@icloud.com"><img alt="Email (i rarely check it)" src="https://img.shields.io/badge/Email-christianmarcos23@icloud.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Chris](https://github.com/ruskichris)
